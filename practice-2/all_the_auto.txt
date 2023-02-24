@@ -1,0 +1,60 @@
++-----------------+-----+
+|manufacturer_name|count|
++-----------------+-----+
+|       Volkswagen| 4243|
+|            Lexus|  213|
+|           Jaguar|   53|
+|            Rover|  235|
+|           Lancia|   92|
+|             Jeep|  107|
+|       Mitsubishi|  887|
+|              ГАЗ|  200|
+|              Kia|  912|
+|             Mini|   68|
+|        Chevrolet|  436|
+|            Volvo|  721|
+|            Lifan|   47|
+|          Hyundai| 1116|
+|             LADA|  146|
+|        SsangYong|   79|
+|             Audi| 2468|
+|             Seat|  303|
+|         Cadillac|   43|
+|          Pontiac|   42|
+|          Москвич|   55|
+|       Alfa Romeo|  207|
+|            Geely|   71|
+|          Renault| 2493|
+|           Daewoo|  221|
+|          Lincoln|   36|
+|              BMW| 2610|
+|           Suzuki|  234|
+|            Acura|   66|
+|             Opel| 2759|
+|            Dacia|   59|
+|            Buick|   47|
+|          Porsche|   61|
+|              ВАЗ|  481|
+|          Citroen| 1562|
+|              УАЗ|   74|
+|              ЗАЗ|   42|
+|           Toyota| 1246|
+|            Dodge|  297|
+|           Nissan| 1361|
+|             Fiat|  824|
+|             Ford| 2566|
+|       Great Wall|   36|
+|           Subaru|  291|
+|         Infiniti|  162|
+|          Peugeot| 1909|
+|             Saab|  108|
+|            Honda|  797|
+|       Land Rover|  184|
+|    Mercedes-Benz| 2237|
+|         Chrysler|  410|
+|            Chery|   58|
+|            Iveco|  139|
+|            Skoda| 1089|
+|            Mazda| 1328|
++-----------------+-----+
+

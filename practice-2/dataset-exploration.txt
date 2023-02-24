@@ -1,0 +1,33 @@
+-RECORD 0-------------------------
+ manufacturer_name | Subaru       
+ model_name        | Outback      
+ transmission      | automatic    
+ color             | silver       
+ odometer_value    | 190000       
+ year_produced     | 2010         
+ engine_fuel       | gasoline     
+ engine_has_gas    | False        
+ engine_type       | gasoline     
+ engine_capacity   | 2.5          
+ body_type         | universal    
+ has_warranty      | False        
+ state             | owned        
+ drivetrain        | all          
+ price_usd         | 10900.0      
+ is_exchangeable   | False        
+ location_region   | Минская обл. 
+ number_of_photos  | 9            
+ up_counter        | 13           
+ feature_0         | False        
+ feature_1         | True         
+ feature_2         | True         
+ feature_3         | True         
+ feature_4         | False        
+ feature_5         | True         
+ feature_6         | False        
+ feature_7         | True         
+ feature_8         | True         
+ feature_9         | True         
+ duration_listed   | 16           
+only showing top 1 row
+
